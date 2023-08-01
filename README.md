@@ -1,3 +1,3 @@
 # react-multipage-site
-Outline multipage site created using React. Created as part of Altcademy Full Stack bootcamp.
+Outline multipage site code-along using React; part of Altcademy Full Stack bootcamp.
 
